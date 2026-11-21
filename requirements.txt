@@ -1,0 +1,4 @@
+openai>=2.0
+pysubs2>=1.7
+imageio-ffmpeg>=0.5
+pyinstaller>=6.0

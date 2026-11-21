@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+subtitle_translator_config.json*
+translator.log*
+*.partial*
+*.tmp.mkv
